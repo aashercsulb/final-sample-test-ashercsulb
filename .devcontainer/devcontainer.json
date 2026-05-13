@@ -1,0 +1,12 @@
+{
+  "name": "Exam Node Environment",
+  "image": "ghcr.io/ashercsulb/sp26finaltest/sp26-final-test:latest",
+  "settings": {
+    "github.copilot.enable": false,
+    "github.copilot.chat.welcomeMessage": "none",
+    "chat.agentState": "disabled",
+    "workbench.layoutControl.enabled": false,
+    "editor.inlineSuggest.enabled": false,
+    "extensions.autoUpdate": false
+  }
+}
